@@ -1,0 +1,12 @@
+{"emp_id": 101, "name": "Aditi Sharma", "department": "Sales", "designation": "Executive", "salary": 45000, "age": 29, "join_date": "2019-03-12", "city": "Mumbai", "gender": "F"}
+{"emp_id": 102, "name": "Rohan Verma", "department": "IT", "designation": "Senior Developer", "salary": 95000, "age": 34, "join_date": "2016-07-01", "city": "Bangalore", "gender": "M"}
+{"emp_id": 103, "name": "Priya Singh", "department": "HR", "designation": "Manager", "salary": 72000, "age": 41, "join_date": "2012-11-23", "city": "Delhi", "gender": "F"}
+{"emp_id": 104, "name": "Karan Mehta", "department": "IT", "designation": "Developer", "salary": 68000, "age": 27, "join_date": "2020-01-15", "city": "Pune", "gender": "M"}
+{"emp_id": 105, "name": "Sneha Iyer", "department": "Finance", "designation": "Analyst", "salary": 54000, "age": 25, "join_date": "2021-06-30", "city": "Chennai", "gender": "F"}
+{"emp_id": 106, "name": "Vikram Rao", "department": "Sales", "designation": "Manager", "salary": 88000, "age": 38, "join_date": "2014-09-05", "city": "Mumbai", "gender": "M"}
+{"emp_id": 107, "name": "Anjali Nair", "department": "IT", "designation": "Developer", "salary": 71000, "age": 30, "join_date": "2018-02-20", "city": "Hyderabad", "gender": "F"}
+{"emp_id": 108, "name": "Manish Kumar", "department": "Finance", "designation": "Senior Analyst", "salary": 63000, "age": 33, "join_date": "2017-05-18", "city": "Delhi", "gender": "M"}
+{"emp_id": 109, "name": "Divya Reddy", "department": "HR", "designation": "Executive", "salary": 42000, "age": 24, "join_date": "2022-08-01", "city": "Hyderabad", "gender": "F"}
+{"emp_id": 110, "name": "Suresh Pillai", "department": "Sales", "designation": "Executive", "salary": 47000, "age": 45, "join_date": "2005-04-10", "city": "Chennai", "gender": "M"}
+{"emp_id": 111, "name": "Neha Joshi", "department": "IT", "designation": "Manager", "salary": 99000, "age": 36, "join_date": "2013-12-01", "city": "Pune", "gender": "F"}
+{"emp_id": 112, "name": "Arjun Das", "department": "Finance", "designation": "Manager", "salary": 85000, "age": 40, "join_date": "2011-10-09", "city": "Bangalore", "gender": "M"}

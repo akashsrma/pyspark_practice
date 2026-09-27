@@ -1,0 +1,9 @@
+emp_id,name,department,designation,salary,age,city
+201,Ramesh Iyer,Sales,Executive,45000,29,Mumbai
+202,Sunita Rao,,Manager,,41,Delhi
+203,Kiran Bhat,IT,Developer,68000,,Pune
+204,Alok Nath,Finance,Analyst,54000,25,
+205,Meera Pillai,,Executive,42000,24,Hyderabad
+206,Farhan Ali,IT,,71000,30,Hyderabad
+207,Geeta Menon,HR,Executive,,33,Delhi
+208,Vishal Sethi,Sales,Manager,88000,38,Mumbai

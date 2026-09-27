@@ -1,0 +1,16 @@
+order_id,customer_name,product,category,quantity,unit_price,order_date,region,sales_rep
+1,Rahul Gupta,Laptop,Electronics,1,55000,2023-01-05,North,Aditi Sharma
+2,Simran Kaur,Mobile,Electronics,2,20000,2023-01-07,North,Aditi Sharma
+3,Ajay Bhatt,Office Chair,Furniture,4,4500,2023-01-10,South,Vikram Rao
+4,Ritu Bansal,Desk,Furniture,2,7000,2023-01-12,South,Vikram Rao
+5,Manoj Tiwari,Headphones,Electronics,3,1500,2023-01-15,East,Anjali Nair
+6,Kavita Rao,Mobile,Electronics,1,22000,2023-01-18,East,Anjali Nair
+7,Rahul Gupta,Monitor,Electronics,2,9000,2023-02-02,North,Aditi Sharma
+8,Sunita Menon,Bookshelf,Furniture,1,3200,2023-02-05,West,Suresh Pillai
+9,Arvind Nair,Laptop,Electronics,1,58000,2023-02-08,South,Vikram Rao
+10,Pooja Malhotra,Chair,Furniture,6,1200,2023-02-11,West,Suresh Pillai
+11,Deepak Chawla,Mobile,Electronics,3,21000,2023-02-14,North,Aditi Sharma
+12,Meena Iyer,Table,Furniture,1,8500,2023-02-18,East,Anjali Nair
+13,Rahul Gupta,Headphones,Electronics,2,1600,2023-03-01,North,Aditi Sharma
+14,Sanjay Verma,Sofa,Furniture,1,25000,2023-03-04,South,Vikram Rao
+15,Anita Desai,Laptop,Electronics,1,54000,2023-03-09,West,Suresh Pillai

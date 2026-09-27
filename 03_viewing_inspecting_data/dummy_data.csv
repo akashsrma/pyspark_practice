@@ -1,0 +1,13 @@
+emp_id,name,department,designation,salary,age,join_date,city,gender
+101,Aditi Sharma,Sales,Executive,45000,29,2019-03-12,Mumbai,F
+102,Rohan Verma,IT,Senior Developer,95000,34,2016-07-01,Bangalore,M
+103,Priya Singh,HR,Manager,72000,41,2012-11-23,Delhi,F
+104,Karan Mehta,IT,Developer,68000,27,2020-01-15,Pune,M
+105,Sneha Iyer,Finance,Analyst,54000,25,2021-06-30,Chennai,F
+106,Vikram Rao,Sales,Manager,88000,38,2014-09-05,Mumbai,M
+107,Anjali Nair,IT,Developer,71000,30,2018-02-20,Hyderabad,F
+108,Manish Kumar,Finance,Senior Analyst,63000,33,2017-05-18,Delhi,M
+109,Divya Reddy,HR,Executive,42000,24,2022-08-01,Hyderabad,F
+110,Suresh Pillai,Sales,Executive,47000,45,2005-04-10,Chennai,M
+111,Neha Joshi,IT,Manager,99000,36,2013-12-01,Pune,F
+112,Arjun Das,Finance,Manager,85000,40,2011-10-09,Bangalore,M
